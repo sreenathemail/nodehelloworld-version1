@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sreenathemail/nodehelloworld:version1 "sreenathemail"
+          tags: sreenathemail/nodehelloworld:latest
